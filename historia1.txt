@@ -1,0 +1,3 @@
+Como dono do estacionamento quero um aplicativo para fazer gestão dos estacionamentos para ter e atualizar informações dos estacionamentos com vagas ocupadas e livres, preço e fazer reajuste.
+
+Solução: Vamos desenvolver um aplicativo para o gerenciamente do estacionamento, que vai fazer com que a vida do gerente seja mais facil.
