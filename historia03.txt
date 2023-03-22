@@ -1,0 +1,3 @@
+como deselvolvedor, resolveria a história...
+criando uma tela com uma api do google para que o cliente possa 
+visualizar quais areas estão disponiveis para estacionar.
