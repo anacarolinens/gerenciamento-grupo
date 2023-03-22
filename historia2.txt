@@ -1,0 +1,3 @@
+Como funcionário do estacionamento quero tirar foto do carro e registrar o pagamento para receber pagamento dos clientes e mudar funcionários ou mandar para outro estacionamento quando necessário.
+
+Solução: será desenvolvido um sistema para ser inserido as fotos dos veiculos e os pagamentos recebidos e mudar funcionários ou mandar para outros estacionamentos.
